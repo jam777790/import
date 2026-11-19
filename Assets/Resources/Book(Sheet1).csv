@@ -1,0 +1,4 @@
+﻿monsterId,monsterName,maxHp,moveSpeed,contactDamage,expReward,scaleMultiplier
+MON_BAT,박쥐,20,3.5,10,2,1
+MON_ZOMBIE,좀비,60,1.8,15,5,2.5
+MON_BOSS,거대 해골,1000,2.2,30,100,1
